@@ -21,7 +21,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="camarao-alho.html">
+                            <a href="camarao-alho.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/jardim-cogumelos.jpg" alt="cogumelos" />
@@ -42,7 +42,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="camarao-alho.html">
+                            <a href="camarao-alho.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/camarao-alho.jpg" alt="camaroes" />
@@ -63,7 +63,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="camarao-alho.html">
+                            <a href="camarao-alho.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/salada-grega.jpg" alt="salada" />
@@ -84,7 +84,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="camarao-alho.html">
+                            <a href="camarao-alho.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/brie-geleia.jpg" alt="brie" />
@@ -116,7 +116,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="picanha-brasileira.html">
+                            <a href="picanha-brasileira.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/picanha-brasileira.jpg" alt="picanha" />
@@ -137,7 +137,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="picanha-brasileira.html">
+                            <a href="picanha-brasileira.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/costelinha.jpg" alt="costela" />
@@ -158,7 +158,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="picanha-brasileira.html">
+                            <a href="picanha-brasileira.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/salmao-legumes.jpg" alt="salmao" />
@@ -179,7 +179,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="picanha-brasileira.html">
+                            <a href="picanha-brasileira.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/churrasco-misto.jpg" alt="churrasco" />
@@ -212,7 +212,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="cheesecake-cereja.html">
+                            <a href="cheesecake-cereja.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/cheesecake-cereja.jpg" alt="cheesecake" />
@@ -233,7 +233,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="cheesecake-cereja.html">
+                            <a href="cheesecake-cereja.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/flan-frutas-vermelhas.jpg" alt="flan" />
@@ -254,7 +254,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="cheesecake-cereja.html">
+                            <a href="cheesecake-cereja.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/petit-gateau.jpg" alt="petit-gateau" />
@@ -275,7 +275,7 @@ include_once('includes/cabecalho.php')
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns">
                         <div class="cardapio-item">
-                            <a href="cheesecake-cereja.html">
+                            <a href="cheesecake-cereja.php">
 
                                 <div class="item-image">
                                     <img src="img/cardapio/creme-papaya.jpg" alt="papaya" />
